@@ -1,10 +1,10 @@
 #  Power BI Projects Portfolio
 
-Welcome to my Power BI Projects Portfolio!
+Welcome to my Power BI Portfolio Repository!
 
-This repository contains my Power BI dashboard projects created as part of my daily practice to improve my data analytics skills.
+This repository contains all the dashboard projects I built as part of my continuous learning journey in Data Analytics and Business Intelligence.
 
-I am continuously learning, building, and improving step by step.
+I am practicing daily and improving my skills step by step.
 
 ---
 
@@ -12,43 +12,74 @@ I am continuously learning, building, and improving step by step.
 
 ### 1️⃣ Sales Performance Dashboard
 - Analyzed 2800+ sales records
-- Total Sales Overview
-- Sales by Country
-- Yearly Sales Trend
-- Sales by Deal Size
+- Total Sales & Country-wise Sales
+- Yearly Sales Trends
+- Deal Size Analysis
 
 ---
 
 ### 2️⃣ HR Analytics Dashboard
 - Total Employees & Attrition Rate
-- Attrition by Gender
-- Attrition by Age & Experience
-- Salary-wise Attrition Analysis
-- Education & Job Role Insights
+- Gender-wise Attrition
+- Age & Experience Analysis
+- Salary & Job Role Insights
 
 ---
 
 ### 3️⃣ Student Academic Performance Dashboard
 - GPA Trend Analysis
 - Department-wise Performance
-- Graduation Year Insights
-- Age vs GPA Relationship
-- Academic Performance Distribution
+- Graduation Insights
+- Age vs GPA Analysis
 
 ---
 
-## Tools & Skills Used
+### 4️⃣ 🏥 Hospital Management Dashboard (Complete Project)
+
+A multi-dashboard healthcare analytics project including:
+
+####  Doctors Analytics
+- Total Doctors & Experience Analysis
+- Specialization Distribution
+- Branch-wise Insights
+
+####  Patient Analytics
+- Total Patients & Average Age
+- Gender Distribution
+- Registration Trends
+- Insurance Provider Analysis
+
+####  Appointment Analytics
+- Appointment Status Analysis
+- Doctor-wise Appointments
+- Reasons for Visit
+
+####  Treatment Analytics
+- Total Treatments
+- Revenue by Treatment Type
+- Monthly Treatment Trends
+
+####  Billing Analytics
+- Total Revenue
+- Paid vs Pending Payments
+- Payment Method Distribution
+- Monthly Revenue Trends
+
+---
+
+##  Tools & Skills Used
 - Power BI
 - DAX (Data Analysis Expressions)
-- Data Cleaning & Transformation
 - Data Modeling
-- Interactive Dashboard Design
-- Analytical Thinking
+- Relationship Creation
+- Data Cleaning & Transformation
+- KPI Design
+- Interactive Dashboard Development
 
 ---
 
-##  Goal
-My goal is to strengthen my skills in Data Analytics and Business Intelligence by building real-world dashboard projects consistently.
+##  My Goal
+To continuously build real-world analytics projects and strengthen my skills in Data Analytics and Business Intelligence.
 
 Learning. Practicing. Improving. 💪
 
