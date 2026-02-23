@@ -34,7 +34,7 @@ I am practicing daily and improving my skills step by step.
 
 ---
 
-### 4️⃣ 🏥 Hospital Management Dashboard (Complete Project)
+### 4️⃣  Hospital Management Dashboard (Complete Project)
 
 A multi-dashboard healthcare analytics project including:
 
